@@ -1,6 +1,7 @@
 (function() {
   'use strict';
 
+  //this should be new updated 
   const stopButton = document.querySelector('#stopButton');
   const slowButton = document.querySelector('#slowButton');
   const goButton = document.querySelector('#goButton');
